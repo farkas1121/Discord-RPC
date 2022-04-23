@@ -1,0 +1,21 @@
+{
+    "clientID": "",
+    "rpc": {
+        "details": "",
+        "state": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "buttons": [
+            {
+                "label": "",
+                "url": ""
+            },
+            {
+                "label": "",
+                "url": ""
+            }
+        ]
+    }
+}
